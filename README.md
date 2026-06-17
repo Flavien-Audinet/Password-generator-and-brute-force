@@ -1,8 +1,7 @@
 # Password-generator-and-brute-force
-Generateur de mot de passe et trouver des mot de passe par brute force
+Générateur de mots de passe sécurisés, ainsi qu’un outil d’attaque par brute-force (à des fins éducatives).
+Plusieurs versions développées pour progresser en programmation.
 
-Il y a plusieur versions car j'ai essaye de m'ameliorer dans la programmation
-
-Mes debuts dans la cyber securite car il faut bien commencer quelque part
-
-Fait en 2021
+Contexte :
+Mes premiers pas en cybersécurité – il faut bien commencer quelque part !
+Réalisé en 2021
