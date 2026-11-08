@@ -74,7 +74,7 @@ Password-generator-and-brute-force/
 └── anciennes-versions/         premiers essais (module random, menus)
     ├── Generateur_MDP.py       menu par type de caractères
     ├── generateur_mdp_2.py     variante du menu
-    ├── generateur_mdp_funct.py version factorisée en fonction
+    ├── generateur_mdp_funct.py  version factorisée en fonction
     ├── MDP_minuteur.py         un mot de passe toutes les 5 secondes
     └── password_generator/     version qui enregistre dans un fichier JSON
 ```
