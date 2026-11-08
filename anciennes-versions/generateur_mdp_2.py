@@ -19,7 +19,7 @@ while True:
         passwd = ""
         choix = input("Choisir la longueur du mdp : ")
         choix = int(choix)
-        for i in range(choix): passwd = passwd + element[random.randint(0, len(element) - 1)]3
+        for i in range(choix): passwd = passwd + element[random.randint(0, len(element) - 1)]
         print(passwd)
         print("\n")
 
